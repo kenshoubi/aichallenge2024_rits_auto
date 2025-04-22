@@ -1,0 +1,15 @@
+/**:
+  ros__parameters:
+    angular_velocity_offset_x: 0.015     # [rad/s]
+    angular_velocity_offset_y: -0.003     # [rad/s]
+    angular_velocity_offset_z: -0.007  # [rad/s]
+    angular_velocity_stddev_xx: 0.03   # [rad/s]
+    angular_velocity_stddev_yy: 0.03   # [rad/s]
+    angular_velocity_stddev_zz: 0.03   # [rad/s]
+
+    linear_acceleration_offset_x: -0.03
+    linear_acceleration_offset_y: 0.015
+    linear_acceleration_offset_z: 0.0
+
+
+
