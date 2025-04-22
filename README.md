@@ -1,0 +1,1 @@
+# aichallenge2024_rits_auto
